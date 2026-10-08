@@ -1,4 +1,4 @@
-# 24172022034_mad_Practical-1: Kotlin Programming Concepts
+# 24012011182_mad_Practical-1: Kotlin Programming Concepts
 
 ## Objective:
 ### The objective of this practical is to demonstrate proficiency in Kotlin programming by implementing various fundamental concepts.
